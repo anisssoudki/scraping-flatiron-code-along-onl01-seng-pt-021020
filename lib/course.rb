@@ -18,3 +18,4 @@ class Course
   end
  
 end
+c = Course.new
