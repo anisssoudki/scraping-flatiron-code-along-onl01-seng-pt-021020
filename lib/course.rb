@@ -19,4 +19,4 @@ class Course
  
 end
 c = Course.new
-p c.get_courses
+p c.all
