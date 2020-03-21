@@ -19,4 +19,4 @@ class Course
  
 end
 c = Course.new
-puts c.get_courses
+p c.get_courses
