@@ -19,3 +19,4 @@ class Course
  
 end
 c = Course.new
+puts c
